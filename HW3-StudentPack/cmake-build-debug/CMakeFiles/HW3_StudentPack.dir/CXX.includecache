@@ -1,0 +1,136 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Blockchain.cpp
+Blockchain.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Blockchain.h
+Utilizer.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Utilizer.h
+iomanip
+-
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Blockchain.h
+Koin.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Koin.h
+ostream
+-
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Koin.cpp
+iostream
+-
+Koin.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Koin.h
+Utilizer.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Utilizer.h
+iomanip
+-
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Koin.h
+ostream
+-
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Miner.cpp
+Miner.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Miner.h
+iomanip
+-
+Utilizer.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Utilizer.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Miner.h
+Blockchain.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Blockchain.h
+ostream
+-
+vector
+-
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Testable.h
+string
+-
+iostream
+-
+utility
+-
+cmath
+-
+Koin.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Koin.h
+Utilizer.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Utilizer.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableAllStream.cpp
+TestableAllStream.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableAllStream.h
+Miner.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Miner.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableAllStream.h
+Testable.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Testable.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableBlockchain.cpp
+sstream
+-
+TestableBlockchain.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableBlockchain.h
+Blockchain.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Blockchain.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableBlockchain.h
+Testable.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Testable.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableKoin.cpp
+iostream
+-
+sstream
+-
+TestableKoin.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableKoin.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableKoin.h
+Testable.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Testable.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableMiner.cpp
+sstream
+-
+TestableMiner.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableMiner.h
+Miner.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Miner.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableMiner.h
+Testable.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Testable.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/Utilizer.h
+randomc.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/randomc.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/main.cpp
+vector
+-
+TestableKoin.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableKoin.h
+TestableBlockchain.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableBlockchain.h
+TestableMiner.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableMiner.h
+TestableAllStream.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/TestableAllStream.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/mersenne.cpp
+randomc.h
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/randomc.h
+
+/home/can/Desktop/pl/HW3-StudentPack (3)/HW3-StudentPack/randomc.h
+stdint.h
+-
+
